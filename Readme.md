@@ -23,7 +23,8 @@ b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8
 **Cevap:** Grafiği çizdim ama eğim formülünü google sheet üzerinden nasıl bulacağımızı anlamadım.
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
-**Cevap:**
+**Cevap:** G'yi küsüratıyla değil de 10'a yuvarlayarak aldığımızdan dolayı olabailir. x=0 iken y= 0.33333...
+![a](https://github.com/sevilmervecam/9Sinif-2Odev/blob/master/20200412_041834%5B1%5D.jpg)
 
 
 
